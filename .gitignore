@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+/lzw-example/lzw
+/lzw-example/uncompress
+
+# Editor
+.vscode/
